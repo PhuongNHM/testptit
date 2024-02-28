@@ -5,15 +5,6 @@
   box-sizing: border-box;
   front-family: 'Poppins', sans-serif;
 }
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-  background: url('https://bizweb.dktcdn.net/100/414/002/files/nmd02564-1-min.jpg?v=1696692109694') no-repeat;
-  background-size: cover;
-  background-position: center;
-}
 
 header {
   position: fixed;
